@@ -8,7 +8,7 @@ title: On Moral Ambivalence
 ---
 
 
-Ambivalence | _noun_ | am·biv·a·lence | \am-ˈbi-və-lən(t)s\
+Ambivalence \|\ _noun_ \|\ am·biv·a·lence \|\ \am-ˈbi-və-lən(t)s\
 
 1:  simultaneous and contradictory attitudes or feelings (as attraction and repulsion) toward an object, person, or action.
 
