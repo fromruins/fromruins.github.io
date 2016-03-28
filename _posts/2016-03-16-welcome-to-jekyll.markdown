@@ -7,6 +7,7 @@ author: Drew Mistak
 published: true
 ---
 
+
 It’s a new year, a new blog, and a new reason to procrastinate doing what’s important (like how I put off writing this post for 3 days.)
 
 ![Iceland](http://i0.wp.com/www.fromruins.com/wp-content/uploads/2016/01/print-12.jpg)
@@ -80,4 +81,5 @@ Most people reading this article will fall back into their old habits and stay t
 
 ### So ask yourself: do you want to become the best version of yourself, or continue being the easy version of yourself?
 
-> “Hell is meeting the person you could have been.” – Keith Cunningham
+>Hell is meeting the person you could have been.
+– Keith Cunningham
