@@ -1,6 +1,6 @@
 ---
-published: true
-title: "The Four E's of Anxiety: Ego, Experience, Ethics, and Exercise"
+published: false
+title: "The Four E's of Anxiety"
 layout: post
 date: "2016-01-26 17:13:09 +0100"
 background: /img/39H.jpg
