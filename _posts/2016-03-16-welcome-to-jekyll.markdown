@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Post
-date: "2016-03-16 17:13:09 +0100"
+title: "Three Steps to Becoming a \"New Me\""
+date: "2016-01-05 17:13:09 +0100"
 background: /img/39H.jpg
-author: "Josslyn Gore-Booth"
+author: Drew Mistak
 published: true
 ---
 
