@@ -7,6 +7,7 @@ author: Drew Mistak
 title: The Importance of Morning Routines
 ---
 
+
 The number one piece of advice I would give to anyone that is unhappy with their life is simple: go to bed early, wake up early, establish a productive morning ritual.
 
 How you start your day determines how the rest of your day will go.
@@ -38,13 +39,13 @@ You tell yourself you’re going to start going to bed earlier and waking up at 
 
 Make some personal rules for yourself and stick to them. For example:
 
-1. No screens after 9 PM – the artificial light of your cell phone, laptop, and TV screen [alters your body’s internal clock](http://www.popularmechanics.com/technology/gadgets/a9323/the-light-from-your-gadgets-is-disrupting-your-sleep-cycle-15760498/) and delays your natural production of melatonin (sleepy-time chemical.) Turn off your phone and read a book.
+1. **No screens after 9 PM.** The artificial light of your cell phone, laptop, and TV screen [alters your body’s internal clock](http://www.popularmechanics.com/technology/gadgets/a9323/the-light-from-your-gadgets-is-disrupting-your-sleep-cycle-15760498/) and delays your natural production of melatonin (sleepy-time chemical.) Turn off your phone and read a book.
 
-2. Take melatonin an hour before bed – artificial lighting delays your brain’s natural release of melatonin, which makes you sleepy. If you refuse to turn off your phone after 9 PM, you can buy melatonin pills (I take the [5mg pills](http://amzn.to/1Qpwukl)) to help you fall asleep faster. For me, they start working about an hour after ingestion.
+2. **Take melatonin an hour before bed.** Artificial lighting delays your brain’s natural release of melatonin, which makes you sleepy. If you refuse to turn off your phone after 9 PM, you can buy melatonin pills (I take the [5mg pills](http://amzn.to/1Qpwukl)) to help you fall asleep faster. For me, they start working about an hour after ingestion.
 
-3. Cut out caffeine and sugar after 2 PM – Studies show that people who drink coffee (or anything else with caffeine) after 2 PM don’t sleep as well as people who do not. The caffeine remains in your system throughout the evening, and [prevents you from entering into deep, restorative sleep](https://www.psychologytoday.com/blog/sleep-newzzz/201312/new-details-caffeine-s-sleep-disrupting-effects). Ingesting too much sugar too late in the day can cause [insomnia created by increased blood sugar levels](http://lifespa.com/sleep-interrupted-the-blood-sugar-and-sleep-connection/).
+3. **Cut out caffeine and sugar after 2 PM.** Studies show that people who drink coffee (or anything else with caffeine) after 2 PM don’t sleep as well as people who do not. The caffeine remains in your system throughout the evening, and [prevents you from entering into deep, restorative sleep](https://www.psychologytoday.com/blog/sleep-newzzz/201312/new-details-caffeine-s-sleep-disrupting-effects). Ingesting too much sugar too late in the day can cause [insomnia created by increased blood sugar levels](http://lifespa.com/sleep-interrupted-the-blood-sugar-and-sleep-connection/).
 
-4. Drink yourself into a coma – I’m just kidding. Please don’t do this. Drinking booze might make you fall asleep quicker, but it [reduces the amount of REM (Rapid Eye Movement) sleep](http://www.webmd.com/sleep-disorders/news/20130118/alcohol-sleep) you get – which is the deepest, most restorative part of the sleep cycle.
+4. **Drink yourself into a coma.** I’m just kidding. Please don’t do this. Drinking booze might make you fall asleep quicker, but it [reduces the amount of REM (Rapid Eye Movement) sleep](http://www.webmd.com/sleep-disorders/news/20130118/alcohol-sleep) you get – which is the deepest, most restorative part of the sleep cycle.
 
 ### Wake Up Early
 
