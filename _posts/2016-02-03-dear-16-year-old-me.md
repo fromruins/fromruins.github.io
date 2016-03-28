@@ -1,11 +1,12 @@
 ---
-published: false
+published: true
 layout: post
 date: "2016-02-03 17:13:09 +0100"
 background: /img/39H.jpg
 author: Drew Mistak
 title: "Dear 16-Year-Old Me"
 ---
+
 
 Dear 16 year old Drew,
 
