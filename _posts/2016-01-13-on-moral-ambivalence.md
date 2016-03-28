@@ -1,5 +1,9 @@
 ---
 published: false
+layout: post
+date: "2016-01-13 17:13:09 +0100"
+background: /img/39H.jpg
+author: Drew Mistak
 ---
 
 Ambivalence | _noun_ | am·biv·a·lence | \am-ˈbi-və-lən(t)s\
