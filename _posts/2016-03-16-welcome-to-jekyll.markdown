@@ -16,7 +16,7 @@ You go to bed at night worrying about what you need to get done the next day and
 
 Every new year, people seem to believe that somehow they will become a “new me” even though they know it’s a lie they tell themselves to feel better. They will keep doing the same shit and keep getting the same results. They only have vague New Year’s “resolutions” and no step-by-step plan on how to achieve these goals. It’s a sad routine that people find themselves in every year, and I am ashamed to admit that I ain’t any different. Every new year I tell myself I’ll achieve X and Y by Z, but rarely do. I always fall back into my bad habits, my addictive personality, and my stubborn ways.
 
-I came up with an easy-to-remember method to actually stick to your goals and actually become a “new me.”
+I came up with an easy-to-remember method to _actually_ stick to your goals and actually become a “new me.”
 
 ### Analyze. Arrange. Act.
 
@@ -64,7 +64,7 @@ A fun and unique app I use to create and complete goals is an app/website called
 
 I’ll admit it – I used to be addicted to World of Warcraft when I was in middle school. If you can get hooked on the dopamine rush of completing digital quests on a computer screen, imagine how good you’ll feel when you complete actual quests in your real life.
 
-Write down your specific goals and specifically what you will do to achieve them and specifically when you do so.
+Write down your _specific_ goals and _specifically_ what you will do to achieve them and _specifically_ when you do so.
 
 ### Act – Just do it.
 
@@ -78,6 +78,6 @@ Personally, 2015 was a great year. I made a lot of mistakes and wasted a lot of 
 
 Most people reading this article will fall back into their old habits and stay the same person they’ve always been. When ball drops on December 31, 2016 – they’ll be wondering why they are still the 2015 version of themselves. It’s a new year – are you going to take responsibility for your own life and be in control, or be the victim to circumstances?
 
-So ask yourself: do you want to become the best version of yourself, or continue being the easy version of yourself?
+### So ask yourself: do you want to become the best version of yourself, or continue being the easy version of yourself?
 
 > “Hell is meeting the person you could have been.” – Keith Cunningham
