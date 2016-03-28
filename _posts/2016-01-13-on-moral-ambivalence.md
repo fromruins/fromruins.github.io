@@ -1,10 +1,11 @@
 ---
 published: true
 layout: post
-date: "2016-01-13 17:13:09 +0100"
+date: "2016-01-13"
 background: /img/39H.jpg
 author: Drew Mistak
 title: On Moral Ambivalence
+comments: false
 ---
 
 
@@ -18,7 +19,7 @@ Ambivalence \| _noun_ \| am·biv·a·lence \| \am-ˈbi-və-lən(t)s\
 
 Every single person living on this planet experiences some form of ambivalence between their inner self and their outer world. A disconnect between what they believe and what they do.
 
-This disconnect between character and personality – between values and actions – causes myriad of emotional issues within oneself. Knowing deep down that what they are doing is wrong yet continuing to do what they’re doing – whether it be out of peer pressure, out of bad habit, or out of fear of change – causes people to question their very existence.
+This disconnect between character and personality – between values and actions – causes myriad of emotional issues within oneself. Knowing deep down that what they are doing is wrong yet continuing to do what they’re doing – whether it be out of peer pressure, out of bad habit, or out of fear of change – causes people to question their very existence.<!--excerpt_end-->
 
 “Why am I doing this?”
 “Why can’t I do what I know is right?”

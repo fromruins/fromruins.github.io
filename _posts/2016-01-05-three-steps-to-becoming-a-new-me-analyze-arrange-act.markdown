@@ -1,19 +1,20 @@
 ---
 layout: post
 title: "Three Steps to Becoming a \"New Me\""
-date: "2016-01-05 17:13:09 +0100"
+date: "2016-01-05"
 background: /img/39H.jpg
 author: Drew Mistak
 published: true
+comments: false
 ---
 
 
 It’s a new year, a new blog, and a new reason to procrastinate doing what’s important (like how I put off writing this post for 3 days.)
 
 ![Iceland](http://i0.wp.com/www.fromruins.com/wp-content/uploads/2016/01/print-12.jpg)
-Iceland
+_Iceland._
 
-You go to bed at night worrying about what you need to get done the next day and tell yourself “tomorrow will be the day I finally start to get my shit together.” You wake up the next morning and fall back into the same bad habits that have only weighed you down. You know what you want out of life, you know what you need to get it, but you still take the easiest route and do what’s comfortable. It’s not productive, it’s not helping you – but it’s easy… it’s safe. I’m not going to pretend like I don’t have bad habits and procrastinate, I do. I waste time goofing off on the internet, waste time playing video games, waste time drinking, waste time watching Netflix.
+You go to bed at night worrying about what you need to get done the next day and tell yourself “tomorrow will be the day I finally start to get my shit together.” You wake up the next morning and fall back into the same bad habits that have only weighed you down. You know what you want out of life, you know what you need to get it, but you still take the easiest route and do what’s comfortable. It’s not productive, it’s not helping you – but it’s easy... it’s safe. I’m not going to pretend like I don’t have bad habits and procrastinate, I do. I waste time goofing off on the internet, waste time playing video games, waste time drinking, waste time watching Netflix.<!--excerpt_end-->
 
 Every new year, people seem to believe that somehow they will become a “new me” even though they know it’s a lie they tell themselves to feel better. They will keep doing the same shit and keep getting the same results. They only have vague New Year’s “resolutions” and no step-by-step plan on how to achieve these goals. It’s a sad routine that people find themselves in every year, and I am ashamed to admit that I ain’t any different. Every new year I tell myself I’ll achieve X and Y by Z, but rarely do. I always fall back into my bad habits, my addictive personality, and my stubborn ways.
 

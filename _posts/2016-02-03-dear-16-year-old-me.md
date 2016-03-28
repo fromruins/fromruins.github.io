@@ -1,10 +1,11 @@
 ---
 published: true
 layout: post
-date: "2016-02-03 17:13:09 +0100"
+date: "2016-02-03"
 background: /img/39H.jpg
 author: Drew Mistak
 title: "Dear 16-Year-Old Me"
+comments: false
 ---
 
 
@@ -14,7 +15,7 @@ I am writing to you now, as a 21 year old, to advise you and let you know what t
 
 A lot will change in the next five years, as you are soon to find out. You’ll fall in what you think is love, and get what you think is heartbroken. You’ll make new friends, lose old friends, and then lose your new friends. You’ll move out of your parents’ house at 18 and live on your own, which is more challenging than  you anticipated. You’ll waste a lot of time and a lot of money on things you shouldn’t have spent any time or money on. You’ll learn a lot, lose a lot, and discover a lot about yourself in the next five years that will fly by.
 
-Let’s start with the most important things first, shall we?
+Let’s start with the most important things first, shall we?<!--excerpt_end-->
 
 ### 1. Spend more time with your family, especially your grandpa
 
@@ -79,7 +80,7 @@ I’d rather die believing in love than live believing in nothing.
 
 Even though you spent your time on meaningless relationships, you somehow managed to snag a wonderful, amazing girl who makes you want to become a better man. Hell, I wouldn’t be writing this if it wasn’t for her. Maybe these relationships were just a learning experience, and if so, they were worth it. Just don’t spend too much time or too much money or get too invested in these relationships, for they will fade from your memory once you meet the right one (and you will [I did.])
 
- 
+
 
 ### 4. Stop playing video games
 

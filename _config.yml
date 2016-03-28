@@ -12,7 +12,7 @@ description: Blog description
 url: "http://fromruins.github.io/" # the base hostname & protocol for your site
 
 permalink: "/:categories/:title"
-excerpt_separator: <!--break-->
+excerpt_separator: <!--excerpt_end-->
 
 # Build settings
 markdown: kramdown

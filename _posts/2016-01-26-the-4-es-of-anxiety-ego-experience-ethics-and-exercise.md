@@ -2,16 +2,17 @@
 published: true
 title: "The Four E's of Anxiety"
 layout: post
-date: "2016-01-26 17:13:09 +0100"
+date: "2016-01-26"
 background: /img/39H.jpg
 author: Drew Mistak
+comments: false
 ---
 
 
 
 One of the most prevalent “mental illnesses” with millennials is anxiety., which is not surprising considering our modern culture has destroyed the family and community, alienated everyone behind digital screens, and convinced people that nothing is their fault and anything can be fixed with a pill.
 
-There’s a reason the pharmaceutical industry is the [most profitable industry in the world](http://www.bbc.com/news/business-28212223).
+There’s a reason the pharmaceutical industry is the [most profitable industry in the world](http://www.bbc.com/news/business-28212223).<!--excerpt_end-->
 
 ![](http://i0.wp.com/ichef-1.bbci.co.uk/news/624/media/images/78427000/gif/_78427037_pharmaceutical_profits_624.gif?w=1260)
 Pharmaceutical profits

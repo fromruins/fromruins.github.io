@@ -1,10 +1,11 @@
 ---
 published: true
 layout: post
-date: "2016-02-19 17:13:09 +0100"
+date: "2016-02-19"
 background: /img/39H.jpg
 author: Drew Mistak
-title: The Importance of Morning Routines
+title: The Importance of Morning Rituals
+comments: false
 ---
 
 
@@ -14,7 +15,7 @@ How you start your day determines how the rest of your day will go.
 
 If you start your day in a low energy fashion – waking up late, putting on a pot of coffee, slowly getting ready, sitting on the couch and scrolling through your phone until the coffee kicks in, then forcing yourself out the door to get to work or school – your entire day will be low energy and you probably won’t get everything done that you wanted to.
 
-It’s all about momentum.
+It’s all about momentum.<!--excerpt_end-->
 
 If you start your day like a bat out of hell – waking up early, hitting the gym, pushing your body to its limit, getting ready, reading, writing – the rest of your day will be more productive and you’ll get much more done.
 
