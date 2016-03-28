@@ -1,56 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>From Ruins</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 16 Jan 2016 01:05:40 +0100</pubDate>
-    <lastBuildDate>Sat, 16 Jan 2016 01:05:40 +0100</lastBuildDate>
-    <generator>Jekyll v3.0.1</generator>
+    <title>Blog Title</title>
+    <description>Blog description</description>
+    <link>https://jonlp2.github.io//</link>
+    <atom:link href="https://jonlp2.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 17 Mar 2016 15:45:57 +0100</pubDate>
+    <lastBuildDate>Thu, 17 Mar 2016 15:45:57 +0100</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
     
       <item>
-        <title>Morbi sit amet ex ut</title>
-        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tortor enim, rhoncus et finibus eu, pulvinar eget eros. Mauris vitae purus libero. Pellentesque facilisis leo elit, sit amet rutrum mauris aliquam eu. Donec eu sapien et justo pulvinar egestas sed id augue.&lt;/p&gt;
-
-&lt;p&gt;Ut ut scelerisque libero. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Quisque placerat justo nibh, a facilisis nulla malesuada eget. Fusce varius eu ligula et condimentum. Proin malesuada gravida rhoncus. Vestibulum vulputate, justo luctus sollicitudin dictum, sapien ex laoreet turpis, vitae iaculis justo arcu id erat.&lt;/p&gt;
-
-&lt;p&gt;Phasellus gravida felis libero, eget accumsan augue mollis quis. Fusce imperdiet facilisis risus, sed accumsan lorem ullamcorper sit amet. Maecenas maximus odio et mauris pellentesque, ut porta orci dapibus. Maecenas luctus elit ac turpis sodales, et auctor libero condimentum. Pellentesque vehicula nisl ac nunc tempor euismod.&lt;/p&gt;
-
-&lt;p&gt;Donec suscipit lectus vitae suscipit suscipit. Aenean quis metus vitae orci pellentesque placerat quis eu urna. Nullam sit amet ornare nunc. Quisque viverra vestibulum tellus a iaculis. Cras ligula ex, pharetra at molestie eget, porttitor quis magna. Cras tristique facilisis justo, quis malesuada lectus egestas dictum. Aliquam eget dolor vel sapien egestas iaculis et eu neque. Praesent ut ante interdum, rhoncus lacus porta, ornare massa. Mauris tempor sed lorem vitae tincidunt.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 14 Jan 2016 00:21:15 +0100</pubDate>
-        <link>http://localhost:4000/jekyll/update/2016/01/14/Filler.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2016/01/14/Filler.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Donec rutrum non dolor at ultricies</title>
+        <title>Post</title>
         <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut quam nulla. Integer sed ante suscipit, ultrices urna quis, lobortis elit. Nullam tristique, sapien ornare varius pulvinar, risus dui congue est, in imperdiet augue neque quis risus. Quisque consectetur facilisis augue, sed vestibulum nulla accumsan pellentesque. Quisque sodales hendrerit rhoncus. Ut commodo laoreet turpis, et sodales felis consequat in. Nulla accumsan, turpis finibus feugiat sollicitudin, mi odio pretium sem, non blandit mi tellus at lacus. Sed sit amet ex tincidunt, ullamcorper diam sit amet, placerat enim. Sed convallis gravida sem id condimentum. Sed eleifend id ligula ut mollis. Sed pulvinar mi urna, sed ultricies nibh convallis a. Nam ac interdum neque, in tempus massa. Aliquam pretium accumsan iaculis. Sed vel dapibus urna, quis dapibus eros.&lt;/p&gt;
 
 &lt;p&gt;Donec rutrum non dolor at ultricies. Maecenas quis imperdiet massa. Quisque fringilla hendrerit dui eget pellentesque. Suspendisse mauris nulla, porta id molestie eget, vulputate ac mi. Sed eleifend, leo non vulputate ultrices, lacus nunc molestie nulla, in fringilla dolor quam in mi. Quisque eget bibendum nisl, vitae mattis urna. Phasellus finibus sagittis dui, vel tincidunt nisl euismod vel. Aenean sit amet lobortis odio, ac gravida ex. Nullam at ex nulla. Ut vehicula, nibh quis malesuada condimentum, arcu odio rhoncus mauris, lacinia sagittis ante ex vel mi. Praesent dictum est ut diam vestibulum, vel feugiat ex mollis. Phasellus sodales, risus et commodo porta, augue ante maximus metus, in pellentesque nisi lectus a sem. Nullam aliquam fringilla augue, ac sodales lorem placerat in. Donec a dui quis ligula aliquam mollis. Nulla mattis vestibulum rhoncus.&lt;/p&gt;
 
 &lt;p&gt;Pellentesque non sagittis nisl, sit amet fermentum turpis. Etiam porttitor lacus et justo rhoncus blandit a vel quam. Aliquam erat volutpat. Donec eu nibh eu est laoreet pellentesque. Vivamus turpis magna, accumsan et augue sit amet, placerat molestie velit. Sed magna mauris, tristique id neque non, aliquam dapibus sem. Phasellus imperdiet vulputate orci tempus bibendum. Pellentesque sem erat, maximus non volutpat in, dictum tincidunt arcu. Phasellus elementum purus eget erat sagittis volutpat.&lt;/p&gt;
-
-&lt;p&gt;Donec porta auctor tincidunt. Nullam varius metus a nunc vestibulum, ut vulputate nisi ultrices. Proin ornare ac orci at ornare. Nullam at rutrum felis. Curabitur consequat auctor nisl, sit amet scelerisque nunc tempor nec. Nullam massa erat, ultricies vitae tellus ut, laoreet varius turpis. Curabitur vel est eget enim posuere feugiat. Quisque congue fringilla nunc, quis euismod odio. Nulla finibus, metus vitae egestas ornare, nisi arcu accumsan tellus, in pellentesque magna sem sed felis. Morbi sed est elit.&lt;/p&gt;
-
-&lt;p&gt;Quisque ante odio, porta scelerisque eros eget, pellentesque sodales diam. Sed vestibulum euismod metus ac venenatis. Vivamus eu sapien sit amet libero mollis bibendum. Nulla faucibus sollicitudin leo, quis hendrerit felis scelerisque nec. Proin dictum ultrices nisi suscipit fermentum. Phasellus sed porttitor justo, vel porta urna. Etiam rhoncus odio purus, vel malesuada tortor interdum sit amet.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 14 Jan 2016 00:20:15 +0100</pubDate>
-        <link>http://localhost:4000/jekyll/update/2016/01/14/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2016/01/14/welcome-to-jekyll.html</guid>
+        <pubDate>Wed, 16 Mar 2016 17:13:09 +0100</pubDate>
+        <link>https://jonlp2.github.io//welcome-to-jekyll</link>
+        <guid isPermaLink="true">https://jonlp2.github.io//welcome-to-jekyll</guid>
         
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
         
       </item>
     

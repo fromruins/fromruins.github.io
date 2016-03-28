@@ -1,12 +1,16 @@
 ---
 layout: default
 ---
-<article itemscope itemtype="http://schema.org/BlogPosting">
 
-  <div class="container" itemprop="articleBody">
-    <h2 itemprop="name headline">{{ page.title }}</h2>
-        <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+  <header style="background-image: url({{ page.background }});">
+    <h1 itemprop="name headline">{{ page.title }}</h1>
+    <h4><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} | <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</h4>
+  </header>
+
+<article class="posts" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <div class="post-content" itemprop="articleBody">
     {{ content }}
-    {% include comments.html %}
   </div>
+
 </article>

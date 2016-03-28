@@ -1,15 +1,16 @@
 ---
 layout: default
 ---
-<article>
-  <div class="container">
-    <ul class="posts">
-      {% for post in site.posts %}
-      <li>
-        <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-        {{ post.content }}
-      </li>
-      {% endfor %}
-    </ul>
-  </div>
-</article>
+
+{% include header.html %}
+
+<section class="posts">
+{% for post in site.posts %}
+  <section class="post">
+    <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+    {{ post.excerpt }}
+    <div class="meta"><h5>{% if post.author %}<span itemprop="author" itemscope itemtype="http://schema.org/Person">{{ post.author }}</span>{% endif %} | <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time></h5></div>
+  </section>
+
+{% endfor %}
+</section>

@@ -1,0 +1,32 @@
+html
+  width: 100vw
+  height: 100vh
+
+  body
+    width: 100%
+    height: 100%
+
+    header
+      display: flex
+      flex-direction: column
+      justify-content: center
+      align-items: center
+      height: 70vh
+      background: teal
+      background-image: url(/img/60H.jpg)
+      background-position: bottom
+      background-size: cover
+      margin-bottom: 5rem
+
+      h1, h4, a
+        color: $title-color
+      a:hover
+        color: darken($title-color, 25%)
+    .posts
+      margin: auto
+      max-width: 710px
+      width: 80%
+      padding-bottom: 5rem
+
+      .post
+        border-bottom: #bcc1c4 1px solid
