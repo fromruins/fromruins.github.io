@@ -387,6 +387,7 @@ a {
   position: relative;
   overflow-x: hidden;
   overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
   z-index: 2; }
   #paper-window.tilt {
     overflow: hidden;
