@@ -355,6 +355,64 @@ a {
       content: "| ";
       color: #bcc1c4;
       font-weight: 300; } }
+html {
+  width: 100vw;
+  height: 100vh; }
+  html body {
+    width: 100%;
+    height: 100%; }
+    html body header {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 70vh;
+      background: teal;
+      background-image: url(/img/60H.jpg);
+      background-position: bottom;
+      background-size: cover;
+      margin-bottom: 5rem;
+      text-align: center; }
+      html body header h1, html body header h4, html body header a {
+        color: #fdfdfd;
+        max-width: 70%; }
+      html body header a:hover {
+        color: #bdbdbd; }
+    html body .posts {
+      margin: auto;
+      max-width: 710px;
+      width: 80%;
+      padding-bottom: calc(5rem + 250px); }
+      html body .posts .post {
+        border-bottom: #bcc1c4 1px solid; }
+        html body .posts .post p a {
+          background-color: #e5e7e8; }
+          html body .posts .post p a:hover {
+            background-color: #bcc1c4; }
+      html body .posts .post-content a {
+        background-color: #e5e7e8; }
+        html body .posts .post-content a:hover {
+          background-color: #bcc1c4;
+          transition: all 0.3s ease-in-out; }
+      html body .posts .post blockquote, html body .posts .post-content blockquote {
+        border-left: #444444 0.4rem solid;
+        margin: 0 0 0 -2rem;
+        padding: 0 0 0 1.75rem; }
+        html body .posts .post blockquote p, html body .posts .post-content blockquote p {
+          line-height: 1.5;
+          font-style: italic;
+          font-weight: 200; }
+      html body .posts .post hr, html body .posts .post-content hr {
+        width: 60%; }
+
+.read-more {
+  float: right;
+  color: #444444;
+  font-weight: 600; }
+
+@media screen and (max-width: 600px) {
+  html body header h1, html body header h4, html body header a {
+    max-width: 95% !important; } }
 #paper-back {
   width: 100%;
   height: 100vh;
@@ -375,7 +433,7 @@ a {
         font-family: inherit;
         color: inherit; }
         #paper-back nav .designed a:hover {
-          color: white; }
+          color: #e5e7e8; }
     #paper-back nav a {
       font-family: "Merriweather", serif;
       display: block;
@@ -458,57 +516,82 @@ a {
   .close span:after {
     transform: translateY(-50%) rotate(-45deg); }
 
-html {
-  width: 100vw;
-  height: 100vh; }
-  html body {
-    width: 100%;
-    height: 100%; }
-    html body header {
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-      height: 70vh;
-      background: teal;
-      background-image: url(/img/60H.jpg);
-      background-position: bottom;
-      background-size: cover;
-      margin-bottom: 5rem;
-      text-align: center; }
-      html body header h1, html body header h4, html body header a {
-        color: #fdfdfd;
-        max-width: 70%; }
-      html body header a:hover {
-        color: #bdbdbd; }
-    html body .posts {
-      margin: auto;
-      max-width: 710px;
-      width: 80%;
-      padding-bottom: 5rem; }
-      html body .posts .post {
-        border-bottom: #bcc1c4 1px solid; }
-        html body .posts .post p a {
-          background-color: #e5e7e8; }
-          html body .posts .post p a:hover {
-            background-color: #bcc1c4; }
-      html body .posts .post-content a {
+.share-box {
+  display: flex;
+  padding: 0;
+  border-top: #bcc1c4 1px solid;
+  border-bottom: #bcc1c4 1px solid;
+  list-style: none; }
+  .share-box .share-item {
+    flex: 1;
+    text-align: center;
+    margin: 0;
+    border-right: #bcc1c4 1px solid; }
+    .share-box .share-item:last-child {
+      border-right: none; }
+    .share-box .share-item .share-link {
+      display: block;
+      padding: 8px;
+      font-size: 14px;
+      transition: 0.4s ease-in-out; }
+      .share-box .share-item .share-link:hover {
         background-color: #e5e7e8; }
-        html body .posts .post-content a:hover {
-          background-color: #bcc1c4;
-          transition: all 0.3s ease-in-out; }
-      html body .posts .post blockquote, html body .posts .post-content blockquote {
-        border-left: #444444 0.4rem solid;
-        margin: 0 0 0 -2rem;
-        padding: 0 0 0 1.75rem; }
-        html body .posts .post blockquote p, html body .posts .post-content blockquote p {
-          line-height: 1.5;
-          font-style: italic;
-          font-weight: 200; }
-      html body .posts .post hr, html body .posts .post-content hr {
-        width: 60%; }
+        .share-box .share-item .share-link:hover .icon--ei-sc-twitter {
+          fill: #55acee !important;
+          transition: 0.4s ease-in-out; }
+        .share-box .share-item .share-link:hover .icon--ei-sc-facebook {
+          fill: #3b5998 !important;
+          transition: 0.4s ease-in-out; }
 
-.read-more {
-  float: right;
-  color: #444444;
-  font-weight: 600; }
+.social-icon {
+  fill: #222 !important; }
+
+.icon {
+  vertical-align: bottom; }
+
+.more-articles {
+  display: flex;
+  position: absolute;
+  height: 250px;
+  background: #939ba0;
+  left: 0;
+  width: 100%; }
+  .more-articles .article-link {
+    display: flex;
+    flex-grow: 1;
+    min-width: 50%;
+    text-decoration: none;
+    position: relative;
+    text-align: center;
+    color: #fdfdfd;
+    background: #222 no-repeat center center;
+    -webkit-filter: grayscale(100%);
+    background-size: cover;
+    overflow: hidden;
+    justify-content: center; }
+    .more-articles .article-link:hover {
+      background-color: rgba(0, 0, 0, 0.8);
+      -webkit-filter: grayscale(0%);
+      transition: all 0.4s ease-in-out; }
+      .more-articles .article-link:hover .previous-article:before, .more-articles .article-link:hover .next-article:before {
+        background-color: #fdfdfd;
+        color: #111;
+        transition: all 0.4s ease-in-out; }
+    .more-articles .article-link .previous-article, .more-articles .article-link .next-article {
+      width: 80%;
+      max-width: 710px;
+      margin: 4rem auto; }
+      .more-articles .article-link .previous-article:before, .more-articles .article-link .next-article:before {
+        padding: 4px 10px 5px;
+        text-transform: uppercase;
+        font-size: 0.74164rem;
+        color: #fdfdfd;
+        border: #fdfdfd 1px solid;
+        border-radius: 4px;
+        transition: all 0.4s ease-in-out; }
+      .more-articles .article-link .previous-article h3, .more-articles .article-link .next-article h3 {
+        color: #fdfdfd; }
+    .more-articles .article-link .previous-article:before {
+      content: "You Might Enjoy"; }
+    .more-articles .article-link .next-article:before {
+      content: "Read This Next"; }

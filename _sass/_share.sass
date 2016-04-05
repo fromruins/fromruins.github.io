@@ -1,0 +1,36 @@
+.share-box
+  display: flex
+  padding: 0
+  border-top: $grey-color 1px solid
+  border-bottom: $grey-color 1px solid
+  list-style: none
+
+  .share-item
+    flex: 1
+    text-align: center
+    margin: 0
+    border-right: $grey-color 1px solid
+    &:last-child
+      border-right: none
+
+    .share-link
+      display: block
+      padding: 8px
+      font-size: 14px
+      transition: .4s ease-in-out
+      &:hover
+        background-color: $grey-color-light
+
+        .icon--ei-sc-twitter
+          fill: $twitter-color !important
+          transition: .4s ease-in-out
+
+        .icon--ei-sc-facebook
+          fill: $facebook-color !important
+          transition: .4s ease-in-out
+
+.social-icon
+  fill: $social-color !important
+  
+.icon
+  vertical-align: bottom

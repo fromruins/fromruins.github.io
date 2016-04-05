@@ -18,9 +18,13 @@ $title-color:      #fdfdfd;
 $background-color: #fdfdfd;
 $brand-color:      #2a7ae2;
 
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$grey-color:       #bcc1c4;
+$grey-color-light: lighten($grey-color, 15%);
+$grey-color-dark:  darken($grey-color, 15%);
+
+$twitter-color:    #55acee;
+$facebook-color:   #3b5998;
+$social-color:     #222;
 
 
 // Again, we can make a helper function:
@@ -57,7 +61,10 @@ $on-laptop:        800px;
         "normalize",
         "base",
         "base-mobile",
+        "layout",
+        "layout-mobile",
         "menu",
-        "mobile-menu",
-        "layout"
+        "menu-mobile",
+        "share",
+        "more-articles"
 ;

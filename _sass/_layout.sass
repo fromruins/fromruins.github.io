@@ -28,22 +28,22 @@ html
       margin: auto
       max-width: 710px
       width: 80%
-      padding-bottom: 5rem
+      padding-bottom: calc(5rem + 250px)
 
       .post
-        border-bottom: #bcc1c4 1px solid
+        border-bottom: $grey-color 1px solid
 
         p
           a
-            background-color: lighten(#bcc1c4, 15%)
+            background-color: $grey-color-light
             &:hover
-              background-color: #bcc1c4
+              background-color: $grey-color
 
       .post-content
         a
-          background-color: lighten(#bcc1c4, 15%)
+          background-color: $grey-color-light
           &:hover
-            background-color: #bcc1c4
+            background-color: $grey-color
             transition: all 0.3s ease-in-out
 
       .post, .post-content

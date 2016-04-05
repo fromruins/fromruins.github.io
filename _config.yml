@@ -9,7 +9,9 @@
 title: From Ruins
 email: drew@drewmistak.com
 description: Masculine self-development
-url: "http://fromruins.com/" # the base hostname & protocol for your site
+url: "http://fromruins.com" # the base hostname & protocol for your site
+twitter: "https://twitter.com/drewmistak"
+twitter-handle: "drewmistak"
 
 permalink: "/:categories/:title"
 excerpt_separator: <!--excerpt_end-->

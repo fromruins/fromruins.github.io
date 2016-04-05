@@ -1,0 +1,56 @@
+.more-articles
+  display: flex
+  position: absolute
+  height: 250px
+  background: $grey-color-dark
+
+  left: 0
+  width: 100%
+
+  .article-link
+    display: flex
+    flex-grow: 1
+    min-width: 50%
+    text-decoration: none
+    position: relative
+    text-align: center
+    color: $title-color
+    background: #222 no-repeat center center
+    -webkit-filter: grayscale(100%)
+    background-size: cover
+    overflow: hidden
+    justify-content: center
+    &:hover
+      background-color: rgba(0, 0, 0, 0.8)
+      -webkit-filter: grayscale(0%)
+      transition: all 0.4s ease-in-out
+      .previous-article, .next-article
+        &:before
+          background-color: $title-color
+          color: $text-color
+          transition: all 0.4s ease-in-out
+
+
+    .previous-article, .next-article
+      width: 80%
+      max-width: 710px
+      margin: 4rem auto
+      &:before
+        padding: 4px 10px 5px
+        text-transform: uppercase
+        font:
+          size: ms(-1)
+        color: $title-color
+        border: $title-color 1px solid
+        border-radius: 4px
+        transition: all 0.4s ease-in-out
+      h3
+        color: $title-color
+
+    .previous-article
+      &:before
+        content: "You Might Enjoy"
+
+    .next-article
+      &:before
+        content: "Read This Next"
