@@ -505,6 +505,8 @@ html {
           line-height: 1.5;
           font-style: italic;
           font-weight: 200; }
+      html body .posts .posts hr, html body .posts .post-content hr {
+        width: 60%; }
 
 .read-more {
   float: right;
