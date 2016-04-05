@@ -552,7 +552,7 @@ html {
 .more-articles {
   display: flex;
   position: absolute;
-  height: 250px;
+  height: 320px;
   background: #939ba0;
   left: 0;
   width: 100%; }
@@ -597,4 +597,4 @@ html {
       content: "Read This Next"; }
 
 #disqus_thread {
-  margin-top: 10rem; }
+  margin-top: 15rem; }
