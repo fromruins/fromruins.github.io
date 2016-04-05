@@ -497,6 +497,12 @@ html {
         html body .posts .post-content a:hover {
           background-color: #bcc1c4;
           transition: all 0.3s ease-in-out; }
+      html body .posts .posts blockquote, html body .posts .post-content blockquote {
+        border-left: #444444 0.4rem solid;
+        margin: 0 0 0 -2rem;
+        padding: 0 0 0 1.75rem;
+        font-style: italic;
+        font-weight: 200; }
 
 .read-more {
   float: right;
