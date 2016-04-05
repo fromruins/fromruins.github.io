@@ -5,7 +5,7 @@ date: "2016-02-03"
 background: /img/39H.jpg
 author: Drew Mistak
 title: "Dear 16-Year-Old Me"
-comments: false
+comments: true
 ---
 
 

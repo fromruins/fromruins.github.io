@@ -5,7 +5,7 @@ date: "2016-02-19"
 background: /img/39H.jpg
 author: Drew Mistak
 title: The Importance of Morning Rituals
-comments: false
+comments: true
 ---
 
 

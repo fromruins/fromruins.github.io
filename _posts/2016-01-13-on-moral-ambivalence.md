@@ -5,7 +5,7 @@ date: "2016-01-13"
 background: /img/39H.jpg
 author: Drew Mistak
 title: On Moral Ambivalence
-comments: false
+comments: true
 ---
 
 

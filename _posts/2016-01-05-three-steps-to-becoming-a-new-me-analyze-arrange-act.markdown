@@ -5,7 +5,7 @@ date: "2016-01-05"
 background: /img/39H.jpg
 author: Drew Mistak
 published: true
-comments: false
+comments: true
 ---
 
 

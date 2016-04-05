@@ -5,7 +5,7 @@ layout: post
 date: "2016-01-26"
 background: /img/39H.jpg
 author: Drew Mistak
-comments: false
+comments: true
 ---
 
 
