@@ -36,7 +36,7 @@ You know you should seek meaningful relationships, but you still view women as s
 
 Personally, I have been morally ambivalent in a few areas of my life. Most notably, I eschewed promiscuous behavior and belittled those whom were sexually wanton – all the while I was taking sexual photos of naked and half-naked models and posting it for all the world to see. What I believed directly contradicted what I was doing in life. I would mock people who partook in hookup culture to boost their ego, yet spent a lot of my free time around naked women just to appease my own ego.
 
-![Processed with VSCOcam with b1 preset](http://i1.wp.com/www.fromruins.com/wp-content/uploads/2016/01/2015-07-0404.42.041.jpg?resize=744%2C497)
+![Processed with VSCOcam with b1 preset](../img/joelle.jpg)
 Joelle – France, 2015.
 
 The **second step** is to understand what caused you to perform the actions that contradicted your beliefs. Take some time to contemplate and realize what was fueling your behavior.
@@ -47,7 +47,7 @@ Why did you waste your time on the internet or watching Netflix? Because it was 
 
 In my case, I wanted to exude the aura of “bad-boy photographer who spends his time around beautiful women.” Why? Maybe to get back at the girls in the past who burned me, or to show my bullies from middle school that I’m better than they are. Maybe I just wanted to see if it was possible to lead a happy life by only focusing on the outer world – physical beauty and nothing else.
 
-![2+(1+of+1)](http://i1.wp.com/www.fromruins.com/wp-content/uploads/2016/01/21of1.jpg?resize=744%2C496)
+![2+(1+of+1)](../img/kelly.jpg)
 Kelly – Australia, 2014.
 
 Even though I spent a lot of time around gorgeous women, some of which tried to make advances with me, I never pursued any of them sexually.  I didn’t want to become a “sleazy” photographer that uses his camera to try to sleep with women. I also never believed in having sex outside of a committed relationship (gasp!) and found it easy to turn down models that were only interested in hooking up.
@@ -64,7 +64,7 @@ I am extremely grateful that I never took the “red pill” and decided to trea
 
 I stuck to my guns and I have been rewarded for it tenfold – I am dating a wonderful woman who I would gladly marry and start a family with. She met all of my expectations and blew them out of the water. Being in love with someone who loves you for who you really are, and not the persona that you show off to the world, is far more rewarding than any hookup or any one-night stand.
 
-![Rachel and I — Christmas 2015](http://i0.wp.com/www.fromruins.com/wp-content/uploads/2016/01/ZLziChY9.jpg?resize=744%2C1113)
+![Rachel and I — Christmas 2015](../img/rachel-and-i.jpg)
 Rachel and I – Christmas 2015
 
 Deep down I always knew these truths to be self-evident and obvious, but I was living a lifestyle that directly contradicted them. I would spend my free time trolling girls on Tinder or setting up photoshoots with nude models. Now that I have put all of that behind me (good riddance) and have aligned my actions (personality) with my beliefs (character), I feel complete. I no longer feel like something is wrong with myself or this world, or that it’s everybody else’s fault and not my own.

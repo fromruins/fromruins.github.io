@@ -11,7 +11,7 @@ comments: false
 
 It’s a new year, a new blog, and a new reason to procrastinate doing what’s important (like how I put off writing this post for 3 days.)
 
-![Iceland](http://i0.wp.com/www.fromruins.com/wp-content/uploads/2016/01/print-12.jpg)
+![Iceland](../img/iceland.jpg)
 _Iceland._
 
 You go to bed at night worrying about what you need to get done the next day and tell yourself “tomorrow will be the day I finally start to get my shit together.” You wake up the next morning and fall back into the same bad habits that have only weighed you down. You know what you want out of life, you know what you need to get it, but you still take the easiest route and do what’s comfortable. It’s not productive, it’s not helping you – but it’s easy... it’s safe. I’m not going to pretend like I don’t have bad habits and procrastinate, I do. I waste time goofing off on the internet, waste time playing video games, waste time drinking, waste time watching Netflix.<!--excerpt_end-->
