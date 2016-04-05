@@ -13,7 +13,7 @@ url: "http://fromruins.com" # the base hostname & protocol for your site
 twitter: "https://twitter.com/drewmistak"
 twitter-handle: "drewmistak"
 
-permalink: "/:categories/:title/"
+permalink: "/:title/"
 excerpt_separator: <!--excerpt_end-->
 
 # Build settings
