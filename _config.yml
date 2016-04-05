@@ -8,7 +8,7 @@
 # Site settings
 title: From Ruins
 email: drew@drewmistak.com
-description: Blog description
+description: Masculine self-development
 url: "http://fromruins.github.io/" # the base hostname & protocol for your site
 
 permalink: "/:categories/:title"

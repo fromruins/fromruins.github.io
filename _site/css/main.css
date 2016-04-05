@@ -488,6 +488,15 @@ html {
       padding-bottom: 5rem; }
       html body .posts .post {
         border-bottom: #bcc1c4 1px solid; }
+        html body .posts .post p a {
+          background-color: #e5e7e8; }
+          html body .posts .post p a:hover {
+            background-color: #bcc1c4; }
+      html body .posts .post-content a {
+        background-color: #e5e7e8; }
+        html body .posts .post-content a:hover {
+          background-color: #bcc1c4;
+          transition: all 0.3s ease-in-out; }
 
 .read-more {
   float: right;

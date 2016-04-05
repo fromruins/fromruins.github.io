@@ -33,6 +33,19 @@ html
       .post
         border-bottom: #bcc1c4 1px solid
 
+        p
+          a
+            background-color: lighten(#bcc1c4, 15%)
+            &:hover
+              background-color: #bcc1c4
+
+      .post-content
+        a
+          background-color: lighten(#bcc1c4, 15%)
+          &:hover
+            background-color: #bcc1c4
+            transition: all 0.3s ease-in-out
+
 .read-more
   float: right
   color: lighten($text-color, 20%)
