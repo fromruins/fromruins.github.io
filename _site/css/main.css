@@ -335,12 +335,15 @@ a {
  * Clearfix */
 @media screen and (max-width: 600px) {
   h1 {
-    font-size: 3.14164rem;
+    font-size: 2.61803rem;
     font-weight: 800; }
 
   h2 {
     font-size: 1.94164rem;
     font-weight: 800; }
+
+  h4 {
+    font-size: 1.2rem; }
 
   p {
     font-size: 1.2rem;
